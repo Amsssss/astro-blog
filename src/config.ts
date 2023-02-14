@@ -20,8 +20,8 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/Amsssss",
+    linkTitle: "Github",
     active: true,
   },
   {
@@ -45,7 +45,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Mail",
     href: "mailto:howiewant@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    linkTitle: "Email",
     active: true,
   },
   {
